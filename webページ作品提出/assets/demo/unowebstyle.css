@@ -1,0 +1,20 @@
+#navbar-full .navbar {
+    border-radius: 0 !important;
+    margin-bottom: 15px;
+    z-index: 2;
+}
+
+#menu-dropdown .navbar {
+    border-radius: 3px;
+}
+
+#icons-row i.now-ui-icons {
+    font-size: 30px;
+}
+
+.brand .h1-seo {
+    font-size: 2.8em;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
